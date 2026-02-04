@@ -10,7 +10,6 @@ import hashlib
 import io
 import json
 import os
-from fpdf import FPDF
 
 # ------------------------------------------------------------
 # PAGE CONFIG
